@@ -1,8 +1,8 @@
 # 👋 Olá, seja bem-vindo ao meu perfil!
 
-### 💻 Desenvolvedor Backend Python | Full Stack Developer
+### 💻 Dev
 
-Sou bacharel em Ciência da Computação pela Universidade Federal de Uberlândia (UFU), com experiência prática em desenvolvimento backend e frontend. Tenho interesse em construir aplicações web, desenvolver APIs e trabalhar com soluções orientadas a dados.
+Sou bacharel em Ciência da Computação pela Universidade Federal de Uberlândia (UFU), com experiência prática em desenvolvimento backend e frontend. Tenho interesse em construir aplicações web, desenvolver APIs e trabalhar com soluções orientadas a dados, além de curiosidades a parte.
 
 - 🐍 **Backend:** Python, FastAPI, SQLAlchemy, JWT e bcrypt
 - ⚛️ **Frontend:** React e JavaScript
